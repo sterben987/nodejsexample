@@ -1,0 +1,9 @@
+<form action = "http://localhost:3000/process" method = "POST">
+    <p> <input style = "height:20px" name = "title" type = "text" placeholder = "title" ></p>
+    <p>
+        <textarea style = "height:200px;width:300px" name = "description" placeholder = "description is ...."></textarea>
+    </p>
+    <p>
+        <input type = "submit" value = "submit">
+    </p>
+</form>
